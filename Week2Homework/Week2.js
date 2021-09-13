@@ -3,7 +3,7 @@ let numberOfToppings = 8;
 
 console.log(pizzaPlace);
 console.log(numberOfToppings);
-console.log(pizzaPlace + " " + numberOfToppings);
+console.log(pizzaPlace + " " + numberOfToppings);git
 
 
 
