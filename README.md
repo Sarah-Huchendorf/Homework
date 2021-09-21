@@ -1,29 +1,19 @@
-# Savvy Coders Project Boilerplate Starter Kit
 
-## Overview
+  #  Sarah Huchendorf
 
-This template repository contains several opinionated, 'starter' files and settings to help Savvy Coder students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
+  ## I am attending a boot camp with a company named Savvy Coders!
 
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
+### 1. Have a career instead of a job to make enough      income to take care of my children and myself.
 
-1. [ESLint](eslint.org)
-2. [Stylelint](stylelint.io)
-3. [Prettier](prettier.io)
+### 2. To gain knowledge.
 
-## Get Started
 
-**First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per the instructions in the curriculum.
+> "You have to crawl before you walk."
 
-Well, after establishing your directory structure on your local machine, (e.g. '~/Code/SavvyCoders'), clone the Savvy Starter Repo - essentially, there should be a button that says **Use this template.**
+### 3.Knowledge of Java Script & ES6
 
-> [Read more about using templates on GitHub here...](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+### 4.  Learn the program Jira and become highly
 
-Once this repo has been created on your GitHub, you can click on the button to 'clone' it as usual.
+### skilled in what the Product owners responsibilities consists of.
 
-Once it's `clone`d to your local machine, `cd` into the directory and **be sure to do:** `npm i` to get all of the dependencies installed. If you see any _errors_ (warnings are OK) on Windows, you may have to do `npm install`.
-
-Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom `right` of your screen). You should install these.
-
-In your repo, feel free to update this README and make any other initial changes to files, etc. Then go ahead and do your usual `git` steps -- add, commit, and push.
-
-**Note:** This is a template repository, no need to 'fork it.
+### 5. To be able to start designing and Creating websites and Apps.
