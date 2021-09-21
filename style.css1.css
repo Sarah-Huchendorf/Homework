@@ -1,0 +1,38 @@
+h1#heading {
+  color: rebeccapurple;
+}
+*{box-sizing: border-box}
+
+body{color:rgb(235, 236, 126)}
+
+
+* {
+  border: 1px solid rgb(54, 17, 17);
+}
+div {
+  padding: 10px;
+}
+div {
+  margin: 30px;
+}
+
+
+
+body {
+  text-align : center;
+}
+canvas {
+  display : block;
+  width : 280px;
+  height : 210px;
+  margin : auto;
+  padding : 0;
+  border : none;
+  background-color : rgb(255, 255, 255);
+}
+button {
+  display : block;
+  font-size : inherit;
+  margin : auto;
+  padding : 0.6em;
+}
